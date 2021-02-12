@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Rohit Prajapati</string>
+    <string name="yellow_sart">yellow sart</string>
+    <string name="bio">\n
+        \n
+        I am enthusiasm about learn new thing,
+        \n
+        \n such as learning about music skill and dancing skill and so on.
+        \n\n\n
+        \n I want like built various kind of application.
+        \n\n\n
+        \n my best hobby are raiding bike.
+        \n\n\n
+        \nspend quality time with friends.
+        \n\n\n
+        \n other than that I like to play guitar.
+        \n\n\n
+        \n Reading biography.
+        \n\n\n
+
+    </string>
+    <string name="what_is_your_Nick_Name">what is your NickName?</string>
+    <string name="done">Done</string>
+</resources>
